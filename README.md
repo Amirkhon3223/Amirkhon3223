@@ -1,4 +1,4 @@
-### Hi there, I'm Sabrina! 👋
+### Hi there, I'm Amir! 👋
 - 🔭 Front-End Developer Angular & Vue
 - 🌱 I’m currently to be a Fullstack-Developer
 - 👯 I’m looking to collaborate on IT companies.
