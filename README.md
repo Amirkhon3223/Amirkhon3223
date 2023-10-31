@@ -27,4 +27,5 @@
 # Socials
 ![Telegram](https://img.shields.io/badge/amirich-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) 
 ![Instagram](https://img.shields.io/badge/amirich-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-isomadinov-30a8561b8/)
 
