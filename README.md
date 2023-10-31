@@ -4,7 +4,11 @@
 - 👯 I’m looking to collaborate on IT companies.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/amirkhon_isomadinov/), [Telegram](https://t.me/Amirichvoker)
 
-![Sarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=slateorange)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=slateorange)
+<a href="https://github.com/daniellaera">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=daniellaera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellaera&theme=dark"/>
+</a>
 
 # Technologies
 
@@ -18,6 +22,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![HTMlL](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 # Socials
 ![Telegram](https://img.shields.io/badge/amirich-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) 
