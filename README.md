@@ -4,11 +4,8 @@
 - 👯 I’m looking to collaborate on IT companies.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/amirkhon_isomadinov/), [Telegram](https://t.me/Amirichvoker)
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=slateorange)
-<a href="https://github.com/daniellaera">
-<br>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellaera&theme=dark"/>
-</a>
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=slateorange) <span> <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellaera&theme=dark"/></span>
+
 
 # Technologies
 
