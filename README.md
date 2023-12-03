@@ -3,6 +3,8 @@
 - 🌱 I’m currently to be a Fullstack-Developer
 - 👯 I’m looking to collaborate on IT companies.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/amirkhon_isomadinov/), [Telegram](https://t.me/Amirichvoker)
+- 💖 [My Life](https://github.com/SabrinaOnly)
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180">&nbsp;&nbsp;
