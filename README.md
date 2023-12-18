@@ -3,7 +3,6 @@
 - 🌱 I’m currently to be a Fullstack-Developer
 - 👯 I’m looking to collaborate on IT companies.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/amirkhon_isomadinov/), [Telegram](https://t.me/Amirichvoker)
-- 💖 [My Life](https://github.com/sabrina-babajanova)
 
 
 <div align="left">
