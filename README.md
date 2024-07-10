@@ -1,8 +1,8 @@
 ### Hi there, I'm Amirkhon! 👋
-- 🔭 Front-End Developer Angular
-- 🌱 I’m currently to be a Fullstack-Developer
-- 👯 I’m looking to collaborate on IT companies.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/amirkhon_isomadinov/), [Telegram](https://t.me/Amirichvoker)
+- 🅰️ Front-End Developer Angular
+- 🧑‍💻 I’m currently to be a Fullstack-Developer
+- 🏫 I’m looking to collaborate on IT companies.
+- 🔍 How to reach me: [Instagram](https://www.instagram.com/amirkhon_isomadinov/), [Telegram](https://t.me/Amirichvoker)
 
 
 <div align="left">
