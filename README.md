@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 # Socials
-![Telegram](https://img.shields.io/badge/amirich-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) 
-![Instagram](https://img.shields.io/badge/amirich-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
+[![Telegram](https://img.shields.io/badge/amirich-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amirichvoker)
+[![Instagram](https://img.shields.io/badge/amirich-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirkhon_isomadinov/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-isomadinov-30a8561b8/)
 
