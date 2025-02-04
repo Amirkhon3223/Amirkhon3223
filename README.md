@@ -1,6 +1,5 @@
 ### Hi there, I'm Amirkhon! 👋
 - 🅰️ Front-End Developer Angular
-- 🧑‍💻 I’m currently to be a Fullstack-Developer
 - 🔍 How to reach me: [Instagram](https://www.instagram.com/amirkhon_isomadinov/), [Telegram](https://t.me/Amirichvoker)
 
 
