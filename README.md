@@ -28,8 +28,10 @@
 [![Instagram](https://img.shields.io/badge/amirich-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirkhon_isomadinov/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-isomadinov-30a8561b8/)
 
-# GIST  (GitHub GIST)
-[![Gist Preview](https://github-readme-stats.vercel.app/api/pin/?username=Amirkhon3223&repo=gist)](https://gist.github.com/Amirkhon3223)
+# Gist (GitHub Gist) 📌
+
+[![GitHub Gist](https://upload.wikimedia.org/wikipedia/commons/0/0a/GitHub_Gist_Logo.svg)](https://gist.github.com/Amirkhon3223)
 
 > Click on the preview to explore my GitHub Gists! 🚀
+
 
