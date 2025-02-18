@@ -4,7 +4,7 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180">&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkhon3223&layout=compact&theme=blueberry" alt="Top Languages" height="180">
 </div>
 
