@@ -29,9 +29,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-isomadinov-30a8561b8/)
 
 ## 📌 GitHub Gist
-
-## 📌 GitHub Gist
-
 <div align="left">
   <a href="https://gist.github.com/Amirkhon3223" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:1358/0*HUo_sb_8KDLe4XeG.png?resize=680%2C340" style="border: 1px solid #fff" alt="GitHub Gist Preview" width="300">
