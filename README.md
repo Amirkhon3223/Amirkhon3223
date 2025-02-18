@@ -30,16 +30,18 @@
 
 ## 📌 GitHub Gist
 
-<div align="center">
+<div align="center" style="border: 1px solid white; padding: 10px; border-radius: 10px; background: rgba(255, 255, 255, 0.1);">
   <a href="https://gist.github.com/Amirkhon3223" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/0*HUo_sb_8KDLe4XeG.png?resize=680%2C340" alt="GitHub Gist Preview" width="500">
+    <img src="https://i0.wp.com/eitanblumin.com/wp-content/uploads/2020/04/ev9vguxwkaak9qi.png?resize=680%2C340" 
+         alt="GitHub Gist Preview" width="500" style="border-radius: 10px; opacity: 0.9;">
   </a>
-  <br>
+  <br><br>
   <a href="https://gist.github.com/Amirkhon3223">
     <img src="https://img.shields.io/github/gists/Amirkhon3223?style=for-the-badge&logo=github&logoColor=white" alt="Total Gists">
   </a>
-  <br>
-  <strong>Most used language in Gist:</strong> <code>TypeScript</code> <!-- Обновляй вручную -->
+  <br><br>
+  <strong>Most used language in Gist:</strong> <code>TypeScript</code> <!-- Обновлять вручную -->
 </div>
+
 
 
