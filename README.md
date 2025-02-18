@@ -28,9 +28,14 @@
 [![Instagram](https://img.shields.io/badge/amirich-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirkhon_isomadinov/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-isomadinov-30a8561b8/)
 
-# GitHub Gist 📌
+## 📌 GitHub Gist
 
-[![Top Gist Language](https://img.shields.io/endpoint?url=https://your-api.vercel.app/gist-stats)](https://gist.github.com/Amirkhon3223)
-
+<div align="center">
+  <a href="https://gist.github.com/Amirkhon3223" target="_blank">
+    <img src="https://img.shields.io/github/gists/Amirkhon3223?style=for-the-badge&logo=github&logoColor=white" alt="Total Gists">
+  </a>
+  <br>
+  <strong>Most used language in Gist:</strong> <code>TypeScript</code> <!-- Обновляй вручную -->
+</div>
 
 
