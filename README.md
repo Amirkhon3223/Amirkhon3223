@@ -30,12 +30,10 @@
 
 ## 📌 GitHub Gist
 
-<div align="center">
+<div align="left">
   <a href="https://gist.github.com/Amirkhon3223" target="_blank">
     <img src="https://img.shields.io/github/gists/Amirkhon3223?style=for-the-badge&logo=github&logoColor=white" alt="Total Gists">
   </a>
-  <br>
-  <strong>Most used language in Gist:</strong> <code>TypeScript</code> <!-- Обновляй вручную -->
 </div>
 
 
