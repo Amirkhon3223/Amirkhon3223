@@ -30,6 +30,6 @@
 
 # GitHub Gist 📌
 
-[![GitHub Gist](https://upload.wikimedia.org/wikipedia/commons/0/0a/GitHub_Gist_Logo.svg)](https://gist.github.com/Amirkhon3223)
+[![GitHub Gist](https://img.shields.io/badge/GitHub-Gist-black?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/Amirkhon3223)
 
-> Click on the preview to explore my GitHub Gists! 🚀
+> Click the badge to check out my GitHub Gists! 🚀
