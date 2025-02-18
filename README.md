@@ -28,41 +28,11 @@
 [![Instagram](https://img.shields.io/badge/amirich-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirkhon_isomadinov/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirkhon-isomadinov-30a8561b8/)
 
-<h2>📌 GitHub Gist</h2>
+# GitHub Gist 📌
 
-<a href="https://gist.github.com/Amirkhon3223" target="_blank">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Gists-Loading...-blue?style=for-the-badge&logo=github" id="gist-count">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Top%20Language-Loading...-green?style=for-the-badge" id="gist-lang">
-      </td>
-    </tr>
-  </table>
-</a>
+[![GitHub Gist](https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&theme=solarized-dark)](https://gist.github.com/Amirkhon3223)
 
-<script>
-  fetch("https://api.github.com/users/Amirkhon3223/gists")
-    .then(res => res.json())
-    .then(gists => {
-      document.getElementById("gist-count").src = `https://img.shields.io/badge/Gists-${gists.length}-blue?style=for-the-badge&logo=github`;
-      
-      const langStats = {};
-      gists.forEach(gist => {
-        Object.values(gist.files).forEach(file => {
-          langStats[file.language] = (langStats[file.language] || 0) + 1;
-        });
-      });
+[![Gists Count](https://img.shields.io/github/gists/Amirkhon3223?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/Amirkhon3223)
+[![Most Used Language](https://img.shields.io/badge/Top%20Language-Loading...-blue?style=for-the-badge)](https://gist.github.com/Amirkhon3223)
 
-      const topLang = Object.entries(langStats).sort((a, b) => b[1] - a[1])[0];
-      if (topLang) {
-        document.getElementById("gist-lang").src = `https://img.shields.io/badge/Top%20Language-${topLang[0]}-green?style=for-the-badge`;
-      }
-    })
-    .catch(err => console.error("Error loading Gist data:", err));
-</script>
 
