@@ -30,9 +30,7 @@
 
 # GitHub Gist 📌
 
-[![GitHub Gist](https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&theme=solarized-dark)](https://gist.github.com/Amirkhon3223)
+[![Top Gist Language](https://img.shields.io/endpoint?url=https://your-api.vercel.app/gist-stats)](https://gist.github.com/Amirkhon3223)
 
-[![Gists Count](https://img.shields.io/github/gists/Amirkhon3223?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/Amirkhon3223)
-[![Most Used Language](https://img.shields.io/badge/Top%20Language-Loading...-blue?style=for-the-badge)](https://gist.github.com/Amirkhon3223)
 
 
