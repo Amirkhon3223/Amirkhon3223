@@ -6,6 +6,12 @@
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkhon3223&layout=compact&theme=blueberry" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
+<br>
+<a href="https://gist.github.com/Amirkhon3223">
+  <img src="https://img.shields.io/github/gists/Amirkhon3223?style=for-the-badge&logo=github&logoColor=white" alt="Total Gists">
+</a>
+
 </div>
 
 
