@@ -6,10 +6,6 @@
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkhon3223&layout=compact&theme=blueberry" alt="Top Languages" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&custom_title=GitHub+Stats+%7C+Gists:+12" alt="GitHub Stats" height="180">
-
-
 </div>
 
 
@@ -35,6 +31,8 @@
 ## 📌 GitHub Gist
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=false&hide_title=false&hide_border=false&disable_animations=true&theme=blueberry&custom_title=GitHub+Stats+|+Gists:+12" alt="GitHub Gist Stats" height="180">
+
   <a href="https://gist.github.com/Amirkhon3223" target="_blank">
     <img style="border: 1px solid white; border-radius: 5px; opacity: 0.9;" 
           src="https://i0.wp.com/eitanblumin.com/wp-content/uploads/2020/04/ev9vguxwkaak9qi.png?resize=680%2C340" 
