@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://gist.github.com/Amirkhon3223" target="_blank">
-    <img src="https://i0.wp.com/eitanblumin.com/wp-content/uploads/2020/04/ev9vguxwkaak9qi.png?resize=680%2C340" alt="GitHub Gist Preview" width="500">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/0*HUo_sb_8KDLe4XeG.png?resize=680%2C340" alt="GitHub Gist Preview" width="500">
   </a>
   <br>
   <a href="https://gist.github.com/Amirkhon3223">
