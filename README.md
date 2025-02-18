@@ -4,11 +4,8 @@
 
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkhon3223&layout=compact&theme=blueberry" alt="Top Languages" height="180">
-    <a href="https://gist.github.com/Amirkhon3223" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/0*HUo_sb_8KDLe4XeG.png?resize=680%2C340" style="border: 1px solid #fff" alt="GitHub Gist Preview" width="300">
-  </a>
 </div>
 
 
@@ -33,6 +30,8 @@
 
 # <a href="https://gist.github.com/Amirkhon3223" target="_blank">GIST (GitHub Gist) 📌</a>
 <div align="left">
-
+  <a href="https://gist.github.com/Amirkhon3223" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/0*HUo_sb_8KDLe4XeG.png?resize=680%2C340" style="border: 1px solid #fff" alt="GitHub Gist Preview" width="300">
+  </a>
 </div>
 
