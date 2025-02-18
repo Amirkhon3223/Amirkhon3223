@@ -31,7 +31,7 @@
 ## 📌 GitHub Gist
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=false&hide_title=false&hide_border=false&disable_animations=true&theme=blueberry&custom_title=GitHub+Stats+|+Gists:+12" alt="GitHub Gist Stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&hide=stars,commits,prs,issues,contribs&show_icons=false&hide_border=false&disable_animations=true&theme=blueberry&custom_title=GitHub+Stats+|+Gists:+12" alt="GitHub Gist Stats" height="180">
 
   <a href="https://gist.github.com/Amirkhon3223" target="_blank">
     <img style="border: 1px solid white; border-radius: 5px; opacity: 0.9;" 
