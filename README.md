@@ -30,8 +30,11 @@
 
 ## 📌 GitHub Gist
 
-<div align="left" style="background: url('https://i0.wp.com/eitanblumin.com/wp-content/uploads/2020/04/ev9vguxwkaak9qi.png?resize=680%2C340'); padding: 20px; border-radius: 10px;">
+## 📌 GitHub Gist
+
+<div align="left">
   <a href="https://gist.github.com/Amirkhon3223" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&hide=stars,commits,prs,issues,contribs&show_icons=true&hide_border=true&disable_animations=true&theme=transparent&custom_title=GitHub+Stats+|+Gists:+12&rank_icon=github" alt="GitHub Gist Stats" height="180">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/0*HUo_sb_8KDLe4XeG.png?resize=680%2C340" style="border: 1px solid #fff" alt="GitHub Gist Preview" width="300">
   </a>
 </div>
+
