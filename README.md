@@ -34,7 +34,7 @@
   <a href="https://gist.github.com/Amirkhon3223" target="_blank">
     <img style="border: 1px solid white; border-radius: 5px; opacity: 0.9;" 
           src="https://i0.wp.com/eitanblumin.com/wp-content/uploads/2020/04/ev9vguxwkaak9qi.png?resize=680%2C340" 
-          alt="GitHub Gist Preview" width="200">
+          alt="GitHub Gist Preview" width="300">
   </a>
 </div>
 
