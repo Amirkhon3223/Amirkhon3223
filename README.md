@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkhon3223&layout=compact&theme=blueberry" alt="Top Languages" height="180">
 </div>
-
+<script src="https://gist.github.com/Amirkhon3223/a22252cd0a358f112e55695ab9ed6dfa.js"></script>
 
 # Technologies
 
