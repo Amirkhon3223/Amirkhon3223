@@ -1,6 +1,6 @@
 ### Hi there, I'm Amirkhon! 👋
 - 🅰️ Front-End Developer Angular
-- 🔍 How to reach me: [Instagram](https://www.instagram.com/amirkhon_isomadinov/), [Telegram](https://t.me/Amirichinvoker)
+- 🔍 How to reach me: [Instagram](https://www.instagram.com/amirkhon.isomadinov/), [Telegram](https://t.me/Amirichinvoker)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180">
