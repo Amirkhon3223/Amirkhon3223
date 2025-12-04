@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./header.gif" width="600" alt="Invoker Banner">
+<img src="https://i.pinimg.com/originals/af/5d/80/af5d80bd381d8f95becca11fd4107636.gif" width="600" alt="Invoker Banner">
 
   <p>
     <i>"Quas, Wex, Exort! Knowledge is power."</i>
