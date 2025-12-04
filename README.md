@@ -4,10 +4,10 @@
       <h1>Hi, I'm Amirkhon 👋</h1>
       <div>
         <img src="https://courier.spectral.gg/images/dota/spellicons/talents_tree_full.png" width="25" style="vertical-align: middle;">
-        <b style="vertical-align: middle;"> Hero Selected: Invoker (Front-End)</b>
+        <b style="vertical-align: middle;"> Hero Selected: Amirkhon Isomadinov (Software Engineer)</b>
       </div>
       <br>
-      <div style="background: rgba(0, 0, 0, 0.4); border-radius: 12px; padding: 15px; border: 1px solid #2d2d3f; font-size: 36px;">
+      <div style="background: rgba(0, 0, 0, 0.4); border-radius: 12px; padding: 15px; border: 1px solid #2d2d3f;">
         <img src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png" width="20" style="vertical-align: middle;"> 
         <b>Class:</b> Intelligence | Angular Developer<br>
         <img src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/invoker_invoke.png" width="20" style="vertical-align: middle;"> 
@@ -41,7 +41,9 @@
     </td>
   </tr>
 </table>
+
 <br>
+
 <table border="0" width="100%">
     <tr>
         <td width="60%" valign="top">
