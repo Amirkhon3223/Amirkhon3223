@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,580808,b81414&height=250&section=header&text=Amirkhon&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Invoker%20%7C%20Front-End%20Developer&descSize=20&descAlignY=60&descAlign=50" alt="Amirkhon Banner" width="100%">
+<img src="./header.gif" width="600" alt="Invoker Banner">
 
   <p>
     <i>"Quas, Wex, Exort! Knowledge is power."</i>
