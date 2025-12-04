@@ -1,66 +1,44 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/af/5d/80/af5d80bd381d8f95becca11fd4107636.gif" width="600" alt="Invoker Banner">
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h1>Hi, I'm Amirkhon 👋</h1>
+      <b>🧙‍♂️ Hero Selected: Invoker (Front-End)</b>
+      <br><br>
+      • 🔭 <b>Class:</b> Intelligence | Angular Developer<br>
+      • 🔮 <b>Spells:</b> TypeScript, JavaScript, Vue.js<br>
+      • 🎒 <b>Inventory:</b> Webpack, Tailwind, Node.js<br>
+      • 📜 <b>Mantra:</b> "Knowledge is power."<br>
+      <br>
+      <i>"I am a beacon of knowledge blazing out across a black sea of ignorance."</i>
+      <br><br>
+      <img src="invok.gif" width="400" alt="Invoker Mini walking">
+      <br><br>
+      <div>
+        <a href="https://www.linkedin.com/in/amirkhon-isomadinov">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://t.me/Amirichinvoker">
+          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+        </a>
+        <a href="https://www.instagram.com/amirkhon.isomadinov/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+      </div>
+    </td>
+    <td width="35%" valign="top">
+      <div align="center">
+        <img src="invoker.gif" width="100%" style="border-radius: 10px;" alt="Invoker Art">
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <p>
-    <i>"Quas, Wex, Exort! Knowledge is power."</i>
-  </p>
+<br>
 
-  <a href="https://t.me/Amirichinvoker">
-    <img src="https://img.shields.io/badge/Chat_Wheel-Push_to_Talk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.instagram.com/amirkhon.isomadinov/">
-    <img src="https://img.shields.io/badge/Vision-Wards_Placed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/amirkhon-isomadinov">
-    <img src="https://img.shields.io/badge/Team-Find_Match-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
----
-
-## ⚔️ Hero Attributes (Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=merko&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkhon3223&layout=compact&theme=merko" alt="Top Languages" height="160">
-</div>
-
----
-
-## 🎒 Inventory (Tech Stack)
-
-### <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f52e.png" width="25"> Active Skills (Core)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-### <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f4dc.png" width="25"> Passive Auras (Tools & Build)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f6e0.png" width="25"> Courier Items (System)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
----
-
-## 🛒 Secret Shop (Gists)
-<div align="center">
-  <p><i>"A trove of rare artifacts..."</i></p>
-  <a href="https://gist.github.com/Amirkhon3223" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/0*HUo_sb_8KDLe4XeG.png?resize=680%2C340" style="border: 2px solid #DD0031; border-radius: 10px;" alt="GitHub Gist Preview" width="400">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Amirkhon3223/Amirkhon3223/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+<h3>🛠 Tech Skill Tree</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,vue,html,css,tailwind,nodejs,webpack,npm,yarn&theme=dark" />
 </div>
 
 <br>
-<div align="center">
-  <i>GG WP. See you in the fountain.</i>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&count_private=true" height="150">
