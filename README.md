@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/tBxyh2hLx1rZIuLF64/giphy.gif" width="600" alt="Dota 2 Banner">
-  
-  # 🧙‍♂️ HERO SELECTED: AMIRKHON
-  ### Class: Intelligence | Role: Hard Carry (Front-End)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,580808,b81414&height=250&section=header&text=Amirkhon&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Invoker%20%7C%20Front-End%20Developer&descSize=20&descAlignY=60&descAlign=50" alt="Amirkhon Banner" width="100%">
+
   <p>
-    <i>"Knowledge is power!"</i> — <b>Invoker</b>
+    <i>"Quas, Wex, Exort! Knowledge is power."</i>
   </p>
 
   <a href="https://t.me/Amirichinvoker">
