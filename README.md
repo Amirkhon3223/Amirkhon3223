@@ -1,4 +1,4 @@
-<table style="border:none;" border="none width="100%">
+<table style="border:none;" border="none" width="100%">
   <tr>
     <td width="65%" valign="top">
       <h1>Hi, I'm Amirkhon 👋</h1>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-<table style="border:none;" border="none width="100%">
+<table style="border:none;" border="none" width="100%">
     <tr>
         <td width="60%" valign="top">
             <h3 align="left">
